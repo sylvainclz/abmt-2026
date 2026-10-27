@@ -1,0 +1,5 @@
+type,matsim_n,mikrozensus_n_unweighted,matsim_%,mikrozensus_%,diff_pp
+urban,14768,1348,92.375,73.991,18.384
+suburban,1219,489,7.625,22.202,-14.577
+rural,0,106,0.0,3.807,-3.807
+unknown,0,0,0.0,0.0,0.0
