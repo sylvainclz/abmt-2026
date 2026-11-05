@@ -1,0 +1,257 @@
+purpose,municipality,sim,mz,diff
+W,Mex (VD),0.0,0.0,0.0
+W,Vufflens-la-Ville,0.0,0.0,0.0
+W,Denges,0.388,0.297,0.091
+W,Lussy-sur-Morges,0.0,0.0,0.0
+W,Denens,0.0,0.0,0.0
+W,Cugy (VD),0.507,0.982,-0.475
+W,Paudex,0.45,0.161,0.29
+W,Lausanne,47.799,47.562,0.237
+W,Lonay,0.775,1.019,-0.243
+W,Cheseaux-sur-Lausanne,0.994,1.408,-0.413
+W,Etagnières,0.0,0.0,0.0
+W,Echichens,0.619,0.866,-0.246
+W,Le Mont-sur-Lausanne,3.777,3.36,0.417
+W,Oron,0.0,0.0,0.0
+W,Morrens (VD),0.131,0.242,-0.11
+W,Montpreveyres,0.069,0.168,-0.099
+W,Chavannes-près-Renens,1.563,1.633,-0.069
+W,Aclens,0.0,0.0,0.0
+W,Vaux-sur-Morges,0.0,0.0,0.0
+W,Corcelles-le-Jorat,0.0,0.0,0.0
+W,Lutry,2.164,1.476,0.688
+W,Bremblens,0.0,0.0,0.0
+W,Prilly,3.221,4.324,-1.104
+W,Vullierens,0.0,0.0,0.0
+W,Jorat-Mézières,0.394,0.601,-0.207
+W,Saint-Sulpice (VD),1.263,0.922,0.341
+W,Romanel-sur-Morges,0.0,0.0,0.0
+W,Saint-Prex,0.0,0.0,0.0
+W,Chigny,0.0,0.0,0.0
+W,Assens,0.0,0.0,0.0
+W,Vufflens-le-Château,0.0,0.0,0.0
+W,Préverenges,0.944,1.061,-0.117
+W,Servion,0.325,0.158,0.167
+W,Vucherens,0.0,0.0,0.0
+W,Sullens,0.0,0.0,0.0
+W,Villars-Sainte-Croix,0.557,0.349,0.208
+W,Echallens,0.0,0.0,0.0
+W,Belmont-sur-Lausanne,0.419,1.338,-0.919
+W,Clarmont,0.0,0.0,0.0
+W,Romanel-sur-Lausanne,0.819,1.119,-0.3
+W,Savigny,0.675,0.616,0.059
+W,Vulliens,0.0,0.0,0.0
+W,Ropraz,0.0,0.0,0.0
+W,Echandens,0.725,0.752,-0.027
+W,Froideville,0.181,0.64,-0.459
+W,Bottens,0.131,0.505,-0.374
+W,Bourg-en-Lavaux,0.0,0.0,0.0
+W,Pully,3.59,4.155,-0.565
+W,Bussigny,2.402,2.596,-0.194
+W,Tolochenaz,0.619,0.541,0.078
+W,Forel (Lavaux),0.0,0.0,0.0
+W,Boussens,0.0,0.0,0.0
+W,Hautemorges,0.0,0.0,0.0
+W,Renens (VD),6.767,6.151,0.615
+W,Jorat-Menthue,0.0,0.0,0.0
+W,Poliez-Pittet,0.0,0.0,0.0
+W,Montilliez,0.0,0.0,0.0
+W,Epalinges,2.151,1.763,0.388
+W,Ecublens (VD),7.317,4.82,2.497
+W,Jouxtens-Mézery,0.269,0.436,-0.167
+W,Crissier,3.64,3.091,0.549
+W,Morges,4.015,4.568,-0.553
+W,Lully (VD),0.131,0.0,0.131
+W,Bretigny-sur-Morrens,0.206,0.32,-0.114
+E,Mex (VD),0.0,0.0,0.0
+E,Vufflens-la-Ville,0.0,0.0,0.0
+E,Denges,0.247,0.232,0.015
+E,Lussy-sur-Morges,0.0,0.0,0.0
+E,Denens,0.0,0.0,0.0
+E,Cugy (VD),0.465,2.746,-2.281
+E,Paudex,1.264,0.396,0.868
+E,Lausanne,49.985,41.343,8.642
+E,Lonay,0.421,0.856,-0.435
+E,Cheseaux-sur-Lausanne,0.727,3.055,-2.329
+E,Etagnières,0.0,0.0,0.0
+E,Echichens,0.305,0.166,0.139
+E,Le Mont-sur-Lausanne,3.691,3.836,-0.145
+E,Oron,0.0,0.0,0.0
+E,Morrens (VD),0.291,0.584,-0.293
+E,Montpreveyres,0.058,0.146,-0.088
+E,Chavannes-près-Renens,6.873,2.802,4.071
+E,Aclens,0.0,0.0,0.0
+E,Vaux-sur-Morges,0.0,0.0,0.0
+E,Corcelles-le-Jorat,0.0,0.0,0.0
+E,Lutry,1.845,1.484,0.361
+E,Bremblens,0.0,0.0,0.0
+E,Prilly,1.598,3.846,-2.247
+E,Vullierens,0.0,0.0,0.0
+E,Jorat-Mézières,0.334,0.783,-0.449
+E,Saint-Sulpice (VD),0.756,2.111,-1.355
+E,Romanel-sur-Morges,0.0,0.0,0.0
+E,Saint-Prex,0.0,0.0,0.0
+E,Chigny,0.0,0.0,0.0
+E,Assens,0.0,0.0,0.0
+E,Vufflens-le-Château,0.0,0.0,0.0
+E,Préverenges,0.596,2.009,-1.413
+E,Servion,0.305,0.0,0.305
+E,Vucherens,0.0,0.0,0.0
+E,Sullens,0.0,0.0,0.0
+E,Villars-Sainte-Croix,0.044,0.229,-0.186
+E,Echallens,0.0,0.0,0.0
+E,Belmont-sur-Lausanne,0.247,2.56,-2.313
+E,Clarmont,0.0,0.0,0.0
+E,Romanel-sur-Lausanne,0.421,1.325,-0.903
+E,Savigny,0.334,0.806,-0.472
+E,Vulliens,0.0,0.0,0.0
+E,Ropraz,0.0,0.0,0.0
+E,Echandens,0.0,0.657,-0.657
+E,Froideville,0.32,0.816,-0.497
+E,Bottens,0.073,0.0,0.073
+E,Bourg-en-Lavaux,0.0,0.0,0.0
+E,Pully,3.008,6.341,-3.333
+E,Bussigny,2.833,1.178,1.656
+E,Tolochenaz,0.421,0.0,0.421
+E,Forel (Lavaux),0.0,0.0,0.0
+E,Boussens,0.0,0.0,0.0
+E,Hautemorges,0.0,0.0,0.0
+E,Renens (VD),7.658,6.236,1.422
+E,Jorat-Menthue,0.0,0.0,0.0
+E,Poliez-Pittet,0.0,0.0,0.0
+E,Montilliez,0.0,0.0,0.0
+E,Epalinges,3.618,3.218,0.4
+E,Ecublens (VD),6.35,4.45,1.9
+E,Jouxtens-Mézery,0.174,0.521,-0.347
+E,Crissier,1.25,1.259,-0.009
+E,Morges,3.357,3.884,-0.528
+E,Lully (VD),0.102,0.0,0.102
+E,Bretigny-sur-Morrens,0.029,0.123,-0.094
+S,Mex (VD),0.0,0.0,0.0
+S,Vufflens-la-Ville,0.0,0.0,0.0
+S,Denges,0.257,0.343,-0.086
+S,Lussy-sur-Morges,0.0,0.0,0.0
+S,Denens,0.0,0.0,0.0
+S,Cugy (VD),1.071,0.509,0.562
+S,Paudex,0.638,0.286,0.352
+S,Lausanne,40.924,46.558,-5.633
+S,Lonay,1.488,0.797,0.691
+S,Cheseaux-sur-Lausanne,0.983,1.025,-0.042
+S,Etagnières,0.0,0.0,0.0
+S,Echichens,0.204,0.482,-0.278
+S,Le Mont-sur-Lausanne,3.613,1.053,2.56
+S,Oron,0.0,0.0,0.0
+S,Morrens (VD),0.097,0.171,-0.074
+S,Montpreveyres,0.257,0.0,0.257
+S,Chavannes-près-Renens,1.859,2.234,-0.375
+S,Aclens,0.0,0.0,0.0
+S,Vaux-sur-Morges,0.0,0.0,0.0
+S,Corcelles-le-Jorat,0.0,0.0,0.0
+S,Lutry,3.32,1.042,2.278
+S,Bremblens,0.0,0.0,0.0
+S,Prilly,4.666,4.188,0.478
+S,Vullierens,0.0,0.0,0.0
+S,Jorat-Mézières,0.939,0.112,0.827
+S,Saint-Sulpice (VD),1.124,0.128,0.997
+S,Romanel-sur-Morges,0.0,0.0,0.0
+S,Saint-Prex,0.0,0.0,0.0
+S,Chigny,0.0,0.0,0.0
+S,Assens,0.0,0.0,0.0
+S,Vufflens-le-Château,0.0,0.0,0.0
+S,Préverenges,1.133,0.515,0.618
+S,Servion,0.213,0.424,-0.212
+S,Vucherens,0.0,0.0,0.0
+S,Sullens,0.0,0.0,0.0
+S,Villars-Sainte-Croix,0.682,0.258,0.423
+S,Echallens,0.0,0.0,0.0
+S,Belmont-sur-Lausanne,0.894,0.515,0.379
+S,Clarmont,0.0,0.0,0.0
+S,Romanel-sur-Lausanne,1.346,2.332,-0.986
+S,Savigny,0.699,0.853,-0.154
+S,Vulliens,0.0,0.0,0.0
+S,Ropraz,0.0,0.0,0.0
+S,Echandens,0.576,0.218,0.357
+S,Froideville,0.345,0.137,0.208
+S,Bottens,0.213,0.487,-0.275
+S,Bourg-en-Lavaux,0.0,0.0,0.0
+S,Pully,4.569,5.041,-0.473
+S,Bussigny,2.692,5.135,-2.443
+S,Tolochenaz,0.363,0.251,0.112
+S,Forel (Lavaux),0.0,0.0,0.0
+S,Boussens,0.0,0.0,0.0
+S,Hautemorges,0.0,0.0,0.0
+S,Renens (VD),7.013,7.033,-0.021
+S,Jorat-Menthue,0.0,0.0,0.0
+S,Poliez-Pittet,0.0,0.0,0.0
+S,Montilliez,0.0,0.0,0.0
+S,Epalinges,3.365,3.354,0.01
+S,Ecublens (VD),4.95,3.402,1.548
+S,Jouxtens-Mézery,0.027,0.069,-0.043
+S,Crissier,3.905,5.613,-1.708
+S,Morges,5.197,5.433,-0.235
+S,Lully (VD),0.159,0.0,0.159
+S,Bretigny-sur-Morrens,0.221,0.0,0.221
+L,Mex (VD),0.0,0.0,0.0
+L,Vufflens-la-Ville,0.0,0.0,0.0
+L,Denges,0.496,0.193,0.303
+L,Lussy-sur-Morges,0.0,0.0,0.0
+L,Denens,0.0,0.0,0.0
+L,Cugy (VD),0.665,0.353,0.312
+L,Paudex,0.93,0.585,0.344
+L,Lausanne,42.524,46.187,-3.663
+L,Lonay,0.907,0.268,0.639
+L,Cheseaux-sur-Lausanne,1.352,1.557,-0.205
+L,Etagnières,0.0,0.0,0.0
+L,Echichens,0.823,0.724,0.098
+L,Le Mont-sur-Lausanne,4.349,2.976,1.373
+L,Oron,0.0,0.0,0.0
+L,Morrens (VD),0.293,0.244,0.049
+L,Montpreveyres,0.13,0.05,0.079
+L,Chavannes-près-Renens,1.882,1.275,0.606
+L,Aclens,0.0,0.0,0.0
+L,Vaux-sur-Morges,0.0,0.0,0.0
+L,Corcelles-le-Jorat,0.0,0.0,0.0
+L,Lutry,3.132,2.286,0.847
+L,Bremblens,0.0,0.0,0.0
+L,Prilly,3.893,5.128,-1.235
+L,Vullierens,0.0,0.0,0.0
+L,Jorat-Mézières,0.648,1.326,-0.678
+L,Saint-Sulpice (VD),2.017,0.894,1.123
+L,Romanel-sur-Morges,0.0,0.0,0.0
+L,Saint-Prex,0.0,0.0,0.0
+L,Chigny,0.0,0.0,0.0
+L,Assens,0.0,0.0,0.0
+L,Vufflens-le-Château,0.0,0.0,0.0
+L,Préverenges,0.879,1.008,-0.129
+L,Servion,0.575,0.576,-0.001
+L,Vucherens,0.0,0.0,0.0
+L,Sullens,0.0,0.0,0.0
+L,Villars-Sainte-Croix,0.53,0.407,0.123
+L,Echallens,0.0,0.0,0.0
+L,Belmont-sur-Lausanne,0.794,1.078,-0.284
+L,Clarmont,0.0,0.0,0.0
+L,Romanel-sur-Lausanne,1.07,1.304,-0.233
+L,Savigny,0.665,0.868,-0.203
+L,Vulliens,0.0,0.0,0.0
+L,Ropraz,0.0,0.0,0.0
+L,Echandens,0.811,0.788,0.023
+L,Froideville,0.321,0.521,-0.2
+L,Bottens,0.27,0.093,0.178
+L,Bourg-en-Lavaux,0.0,0.0,0.0
+L,Pully,4.699,4.62,0.078
+L,Bussigny,2.372,3.154,-0.782
+L,Tolochenaz,0.439,0.26,0.18
+L,Forel (Lavaux),0.0,0.0,0.0
+L,Boussens,0.0,0.0,0.0
+L,Hautemorges,0.0,0.0,0.0
+L,Renens (VD),6.687,6.346,0.341
+L,Jorat-Menthue,0.0,0.0,0.0
+L,Poliez-Pittet,0.0,0.0,0.0
+L,Montilliez,0.0,0.0,0.0
+L,Epalinges,3.127,3.181,-0.055
+L,Ecublens (VD),4.175,2.832,1.343
+L,Jouxtens-Mézery,0.287,0.33,-0.042
+L,Crissier,3.256,2.55,0.707
+L,Morges,4.715,5.836,-1.12
+L,Lully (VD),0.124,0.143,-0.019
+L,Bretigny-sur-Morrens,0.163,0.059,0.104
